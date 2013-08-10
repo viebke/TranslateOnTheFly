@@ -1,0 +1,28 @@
+C:\Users\Viebke\documents\visual studio 2010\Projects\TranslateOnTheFly\TranslateOnTheFly\bin\Debug\TranslateOnTheFly.exe
+C:\Users\Viebke\documents\visual studio 2010\Projects\TranslateOnTheFly\TranslateOnTheFly\bin\Debug\TranslateOnTheFly.pdb
+C:\Users\Viebke\documents\visual studio 2010\Projects\TranslateOnTheFly\TranslateOnTheFly\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Viebke\documents\visual studio 2010\Projects\TranslateOnTheFly\TranslateOnTheFly\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Viebke\documents\visual studio 2010\Projects\TranslateOnTheFly\TranslateOnTheFly\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Viebke\documents\visual studio 2010\Projects\TranslateOnTheFly\TranslateOnTheFly\obj\x86\Debug\TranslateOnTheFly.exe
+C:\Users\Viebke\documents\visual studio 2010\Projects\TranslateOnTheFly\TranslateOnTheFly\obj\x86\Debug\TranslateOnTheFly.pdb
+C:\Users\Viebke\Documents\Visual Studio 2010\Projects\TranslateOnTheFly\TranslateOnTheFly\bin\Debug\StringParser.dll
+C:\Users\Viebke\Documents\Visual Studio 2010\Projects\TranslateOnTheFly\TranslateOnTheFly\bin\Debug\WebResourceProvider.dll
+C:\Users\Viebke\documents\visual studio 2010\Projects\TranslateOnTheFly\TranslateOnTheFly\bin\Debug\log4net.dll
+C:\Users\Viebke\documents\visual studio 2010\Projects\TranslateOnTheFly\TranslateOnTheFly\bin\Debug\TranslateOnTheFly.exe.config
+C:\Users\Viebke\documents\visual studio 2010\Projects\TranslateOnTheFly\TranslateOnTheFly\obj\x86\Debug\TranslateOnTheFly.SettingsForm.resources
+C:\Users\Viebke\documents\visual studio 2010\Projects\TranslateOnTheFly\TranslateOnTheFly\obj\x86\Debug\TranslateOnTheFly.MainForm.resources
+C:\Users\Viebke\documents\visual studio 2010\Projects\TranslateOnTheFly\TranslateOnTheFly\obj\x86\Debug\TranslateOnTheFly.Properties.Resources.resources
+C:\Users\Viebke\Sugarsync\Workspace\C#\TranslateOnTheFly\TranslateOnTheFly\bin\Debug\TranslateOnTheFly.exe.config
+C:\Users\Viebke\Sugarsync\Workspace\C#\TranslateOnTheFly\TranslateOnTheFly\bin\Debug\TranslateOnTheFly.exe
+C:\Users\Viebke\Sugarsync\Workspace\C#\TranslateOnTheFly\TranslateOnTheFly\bin\Debug\TranslateOnTheFly.pdb
+C:\Users\Viebke\Sugarsync\Workspace\C#\TranslateOnTheFly\TranslateOnTheFly\bin\Debug\log4net.dll
+C:\Users\Viebke\Sugarsync\Workspace\C#\TranslateOnTheFly\TranslateOnTheFly\bin\Debug\StringParser.dll
+C:\Users\Viebke\Sugarsync\Workspace\C#\TranslateOnTheFly\TranslateOnTheFly\bin\Debug\WebResourceProvider.dll
+C:\Users\Viebke\Sugarsync\Workspace\C#\TranslateOnTheFly\TranslateOnTheFly\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Viebke\Sugarsync\Workspace\C#\TranslateOnTheFly\TranslateOnTheFly\obj\x86\Debug\TranslateOnTheFly.SettingsForm.resources
+C:\Users\Viebke\Sugarsync\Workspace\C#\TranslateOnTheFly\TranslateOnTheFly\obj\x86\Debug\TranslateOnTheFly.MainForm.resources
+C:\Users\Viebke\Sugarsync\Workspace\C#\TranslateOnTheFly\TranslateOnTheFly\obj\x86\Debug\TranslateOnTheFly.Properties.Resources.resources
+C:\Users\Viebke\Sugarsync\Workspace\C#\TranslateOnTheFly\TranslateOnTheFly\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Viebke\Sugarsync\Workspace\C#\TranslateOnTheFly\TranslateOnTheFly\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Viebke\Sugarsync\Workspace\C#\TranslateOnTheFly\TranslateOnTheFly\obj\x86\Debug\TranslateOnTheFly.exe
+C:\Users\Viebke\Sugarsync\Workspace\C#\TranslateOnTheFly\TranslateOnTheFly\obj\x86\Debug\TranslateOnTheFly.pdb
