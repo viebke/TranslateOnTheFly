@@ -44,6 +44,7 @@ namespace TranslateOnTheFly
                 sp.extractTo("</select>", ref contentToParse);
                 String[] separations = { "</option>", "<option ", "value=" };
                 String[] options = contentToParse.ToString().Split(separations, System.StringSplitOptions.RemoveEmptyEntries);
+                options = options.Except(new List<string>() { "SELECTED " }).ToArray<string>();
 
                 //Get languages
                 languages = (from lang in options

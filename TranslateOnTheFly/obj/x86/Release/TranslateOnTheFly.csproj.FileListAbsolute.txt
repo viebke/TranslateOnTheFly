@@ -26,3 +26,16 @@ C:\Users\Viebke\Sugarsync\Workspace\C#\TranslateOnTheFly\TranslateOnTheFly\obj\x
 C:\Users\Viebke\Sugarsync\Workspace\C#\TranslateOnTheFly\TranslateOnTheFly\obj\x86\Release\TranslateOnTheFly.Properties.Resources.resources
 C:\Users\Viebke\Sugarsync\Workspace\C#\TranslateOnTheFly\TranslateOnTheFly\obj\x86\Release\GenerateResource.read.1.tlog
 C:\Users\Viebke\Sugarsync\Workspace\C#\TranslateOnTheFly\TranslateOnTheFly\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\viebke\Dropbox\Workspace\CSharp\Own Projects\TranslateOnTheFly\TranslateOnTheFly\bin\Release\TranslateOnTheFly.exe.config
+C:\Users\viebke\Dropbox\Workspace\CSharp\Own Projects\TranslateOnTheFly\TranslateOnTheFly\obj\x86\Release\TranslateOnTheFly.exe
+C:\Users\viebke\Dropbox\Workspace\CSharp\Own Projects\TranslateOnTheFly\TranslateOnTheFly\obj\x86\Release\TranslateOnTheFly.pdb
+C:\Users\viebke\Dropbox\Workspace\CSharp\Own Projects\TranslateOnTheFly\TranslateOnTheFly\bin\Release\TranslateOnTheFly.exe
+C:\Users\viebke\Dropbox\Workspace\CSharp\Own Projects\TranslateOnTheFly\TranslateOnTheFly\bin\Release\TranslateOnTheFly.pdb
+C:\Users\viebke\Dropbox\Workspace\CSharp\Own Projects\TranslateOnTheFly\TranslateOnTheFly\bin\Release\log4net.dll
+C:\Users\viebke\Dropbox\Workspace\CSharp\Own Projects\TranslateOnTheFly\TranslateOnTheFly\bin\Release\StringParser.dll
+C:\Users\viebke\Dropbox\Workspace\CSharp\Own Projects\TranslateOnTheFly\TranslateOnTheFly\bin\Release\WebResourceProvider.dll
+C:\Users\viebke\Dropbox\Workspace\CSharp\Own Projects\TranslateOnTheFly\TranslateOnTheFly\obj\x86\Release\TranslateOnTheFly.csprojResolveAssemblyReference.cache
+C:\Users\viebke\Dropbox\Workspace\CSharp\Own Projects\TranslateOnTheFly\TranslateOnTheFly\obj\x86\Release\TranslateOnTheFly.SettingsForm.resources
+C:\Users\viebke\Dropbox\Workspace\CSharp\Own Projects\TranslateOnTheFly\TranslateOnTheFly\obj\x86\Release\TranslateOnTheFly.MainForm.resources
+C:\Users\viebke\Dropbox\Workspace\CSharp\Own Projects\TranslateOnTheFly\TranslateOnTheFly\obj\x86\Release\TranslateOnTheFly.Properties.Resources.resources
+C:\Users\viebke\Dropbox\Workspace\CSharp\Own Projects\TranslateOnTheFly\TranslateOnTheFly\obj\x86\Release\TranslateOnTheFly.csproj.GenerateResource.Cache
